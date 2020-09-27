@@ -1,0 +1,11 @@
+{
+  "name": "vanilla-challenge-template",
+  "version": "1.0.0",
+  "description": "Vanilla Challenge Template by Diego Lameira",
+  "author": "Diego Lameira <diegolameira@me.com>",
+  "license": "MIT",
+  "keywords": [
+    "challenges",
+    "diegolameira"
+  ]
+}
