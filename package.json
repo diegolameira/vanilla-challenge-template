@@ -4,11 +4,14 @@
   "description": "Vanilla Challenge Template by Diego Lameira",
   "author": "Diego Lameira <diegolameira@me.com>",
   "license": "MIT",
+  "main": "index.html",
   "keywords": [
     "challenges",
     "diegolameira"
   ],
   "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "lint:fix": "yarn eslint --fix",
     "lint-staged": "lint-staged"
@@ -25,6 +28,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
+    "parcel-bundler": "^1.6.1",
     "prettier": "^2.0.5",
     "typescript": "^4.0.3"
   },
