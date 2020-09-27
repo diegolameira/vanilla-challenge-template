@@ -30,6 +30,7 @@
     "lint-staged": "^10.2.11",
     "parcel-bundler": "^1.6.1",
     "prettier": "^2.0.5",
+    "sass": "^1.26.11",
     "typescript": "^4.0.3"
   },
   "config": {
